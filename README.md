@@ -71,10 +71,10 @@ You can download them from the following links:
 
 | model | data | link |
 | --- | --- | --- |
-| Conformer-Transducer  | Zapadnodvinsky district of the Tver Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/finetuned_conformer.nemo?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEUEYBLmE9j6wqGUjKoE1r%2F20230529%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20230529T152617Z&X-Amz-Expires=1209600&X-Amz-Signature=C45CBC6562D8880D5EFFC05A811DC9BB211938AA3CA890EC8DC690952203128F&X-Amz-SignedHeaders=host) |
-| Conformer-Transducer | Opochetsky District of the Pskov Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/finetuned_conformer_opochka.nemo?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEUEYBLmE9j6wqGUjKoE1r%2F20230529%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20230529T153308Z&X-Amz-Expires=1209600&X-Amz-Signature=8F163739C6D5923A09B2A6888FD0023D0278AB7D2CF7D6590EDEBA01C7ADAF89&X-Amz-SignedHeaders=host) |
-| XLM-RoBERTa  | Zapadnodvinsky district of the Tver Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/xlm_roberta_base_dial.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEUEYBLmE9j6wqGUjKoE1r%2F20230529%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20230529T154001Z&X-Amz-Expires=1209600&X-Amz-Signature=5AEB7322B6A853EFB3873968A52FFF7F842D35B63466AFFB5812FC5738B80812&X-Amz-SignedHeaders=host) |
-| XLM-RoBERTa  | Opochetsky District of the Pskov Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/xlm_roberta_base_dial_V1_opochka.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEUEYBLmE9j6wqGUjKoE1r%2F20230529%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20230529T154207Z&X-Amz-Expires=1209600&X-Amz-Signature=764989EFA172BC6F103823BCAB4EC58F135C12B417EDA7357BF46B00F0D34911&X-Amz-SignedHeaders=host) |
+| Conformer-Transducer  | Zapadnodvinsky district of the Tver Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/finetuned_conformer.nemo) |
+| Conformer-Transducer | Opochetsky District of the Pskov Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/finetuned_conformer_opochka.nemo) |
+| XLM-RoBERTa  | Zapadnodvinsky district of the Tver Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/xlm_roberta_base_dial.zip) |
+| XLM-RoBERTa  | Opochetsky District of the Pskov Region | [here](https://storage.yandexcloud.net/dialect-speech-recognition-and-feature-detection/xlm_roberta_base_dial_V1_opochka.zip) |
 
 All pipeline for transcribing and detecting can be found [here](https://colab.research.google.com/drive/1-L6gwijtLJTVo1TGnX4yttEE3G0mXKNQ?authuser=4#scrollTo=Q8939X9tRNMm).
 
